@@ -3,7 +3,7 @@ Date: Mar 10th 2017
 
 1. Open terminate to run shell file "setup.sh"
 2. If "dmsg" is generated then it succeeds to compile the code.
-3. command line like the following:
+3. Command line for DMSGen is like the following:
 	./dmsg [bias] [testnum] [input_file] [output_file]?
 	
 	--[bias]: integer to the first id for tests in current score-function;
@@ -11,7 +11,7 @@ Date: Mar 10th 2017
 	--[testnum]: the number of tests you have used in mutation testing;
 	
 	--[input_file]: score_function file, including line as following formats:
-	
+
 		{mut-id} "[" {length} "]" ":" { "t" {test-id} }* "\n"
 	
 	--[output_file]: file where the generated DMSG is maintained.
@@ -27,3 +27,5 @@ Date: Mar 10th 2017
 			(3) DMSGVexIndex
 
 			(4) DMSGHierarchy
+
+4. make sure you have installed "clang++" in your system. 
