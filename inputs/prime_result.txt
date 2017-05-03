@@ -1,0 +1,793 @@
+1 [0] : 
+2 [0] : 
+3 [0] : 
+4 [0] : 
+5 [0] : 
+6 [0] : 
+7 [0] : 
+8 [0] : 
+9 [0] : 
+10 [0] : 
+11 [0] : 
+12 [12] : t12 t14 t6 t2 t5 t7 t4 t3 t13 t9 t10 t11 
+13 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+14 [0] : 
+15 [0] : 
+16 [0] : 
+17 [0] : 
+18 [0] : 
+19 [0] : 
+20 [0] : 
+21 [0] : 
+22 [0] : 
+23 [0] : 
+24 [0] : 
+25 [0] : 
+26 [0] : 
+27 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+28 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+29 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+30 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+31 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+32 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+33 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+34 [0] : 
+35 [0] : 
+36 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+37 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+38 [0] : 
+39 [0] : 
+40 [0] : 
+41 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+42 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+43 [0] : 
+44 [0] : 
+45 [0] : 
+46 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+47 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+48 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+49 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+50 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+51 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+52 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+53 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+54 [0] : 
+55 [0] : 
+56 [0] : 
+57 [0] : 
+58 [0] : 
+59 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+60 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+61 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+62 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+63 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+64 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+65 [12] : t12 t14 t6 t2 t5 t7 t8 t4 t3 t9 t10 t11 
+66 [13] : t12 t14 t6 t2 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+67 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+68 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+69 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+70 [10] : t12 t14 t6 t2 t5 t7 t3 t9 t10 t11 
+71 [13] : t12 t14 t6 t2 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+72 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+73 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+74 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+75 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+76 [0] : 
+77 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+78 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+79 [0] : 
+80 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+81 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+82 [0] : 
+83 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+84 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+85 [0] : 
+86 [0] : 
+87 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+88 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+89 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+90 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+91 [0] : 
+92 [0] : 
+93 [0] : 
+94 [0] : 
+95 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+96 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+97 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+98 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+99 [0] : 
+100 [0] : 
+101 [0] : 
+102 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+103 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+104 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+105 [0] : 
+106 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+107 [0] : 
+108 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+109 [0] : 
+110 [0] : 
+111 [0] : 
+112 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+113 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+114 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+115 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+116 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+117 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+118 [0] : 
+119 [0] : 
+120 [0] : 
+121 [0] : 
+122 [0] : 
+123 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+124 [2] : t8 t13 
+125 [0] : 
+126 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+127 [0] : 
+128 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+129 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+130 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+131 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+132 [0] : 
+133 [0] : 
+134 [4] : t12 t14 t2 t9 
+135 [4] : t6 t2 t1 t5 
+136 [12] : t12 t14 t6 t2 t5 t7 t4 t3 t13 t9 t10 t11 
+137 [12] : t12 t14 t6 t2 t5 t7 t4 t3 t13 t9 t10 t11 
+138 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+139 [4] : t6 t2 t1 t5 
+140 [4] : t12 t14 t2 t9 
+141 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+142 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+143 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+144 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+145 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+146 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+147 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+148 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+149 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+150 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+151 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+152 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+153 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+154 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+155 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+156 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+157 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+158 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+159 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+160 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+161 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+162 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+163 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+164 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+165 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+166 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+167 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+168 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+169 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+170 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+171 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+172 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+173 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+174 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+175 [12] : t12 t14 t6 t2 t5 t7 t4 t3 t13 t9 t10 t11 
+176 [12] : t12 t14 t6 t2 t5 t7 t4 t3 t13 t9 t10 t11 
+177 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+178 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+179 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+180 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+181 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+182 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+183 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+184 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+185 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+186 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+187 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+188 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+189 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+190 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+191 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+192 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+193 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+194 [13] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t9 t10 t11 
+195 [13] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t9 t10 t11 
+196 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+197 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+198 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+199 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+200 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+201 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+202 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+203 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+204 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+205 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+206 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+207 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+208 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+209 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+210 [13] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t9 t10 t11 
+211 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+212 [13] : t12 t14 t6 t2 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+213 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+214 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+215 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+216 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+217 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+218 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+219 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+220 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+221 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+222 [0] : 
+223 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+224 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+225 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+226 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+227 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+228 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+229 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+230 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+231 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+232 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+233 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+234 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+235 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+236 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+237 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+238 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+239 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+240 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+241 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+242 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+243 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+244 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+245 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+246 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+247 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+248 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+249 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+250 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+251 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+252 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+253 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+254 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+255 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+256 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+257 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+258 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+259 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+260 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+261 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+262 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+263 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+264 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+265 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+266 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+267 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+268 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+269 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+270 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+271 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+272 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+273 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+274 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+275 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+276 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+277 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+278 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+279 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+280 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+281 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+282 [0] : 
+283 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+284 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+285 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+286 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+287 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+288 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+289 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+290 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+291 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+292 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+293 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+294 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+295 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+296 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+297 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+298 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+299 [0] : 
+300 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+301 [0] : 
+302 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+303 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+304 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+305 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+306 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+307 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+308 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+309 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+310 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+311 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+312 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+313 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+314 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+315 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+316 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+317 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+318 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+319 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+320 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+321 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+322 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+323 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+324 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+325 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+326 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+327 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+328 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+329 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+330 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+331 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+332 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+333 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+334 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+335 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+336 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+337 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+338 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+339 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+340 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+341 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+342 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+343 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+344 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+345 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+346 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+347 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+348 [13] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t9 t10 t11 
+349 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+350 [13] : t12 t14 t6 t2 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+351 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+352 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+353 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+354 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+355 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+356 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+357 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+358 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+359 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+360 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+361 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+362 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+363 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+364 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+365 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+366 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+367 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+368 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+369 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+370 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+371 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+372 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+373 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+374 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+375 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+376 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+377 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+378 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+379 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+380 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+381 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+382 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+383 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+384 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+385 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+386 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+387 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+388 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+389 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+390 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+391 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+392 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+393 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+394 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+395 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+396 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+397 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+398 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+399 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+400 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+401 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+402 [0] : 
+403 [0] : 
+404 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+405 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+406 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+407 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+408 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+409 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+410 [7] : t12 t14 t6 t5 t7 t10 t11 
+411 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+412 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+413 [0] : 
+414 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+415 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+416 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+417 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+418 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+419 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+420 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+421 [7] : t12 t14 t6 t5 t7 t10 t11 
+422 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+423 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+424 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+425 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+426 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+427 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+428 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+429 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+430 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+431 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+432 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+433 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+434 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+435 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+436 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+437 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+438 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+439 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+440 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+441 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+442 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+443 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+444 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+445 [7] : t12 t14 t6 t5 t7 t10 t11 
+446 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+447 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+448 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+449 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+450 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+451 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+452 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+453 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+454 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+455 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+456 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+457 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+458 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+459 [13] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t9 t10 t11 
+460 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+461 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+462 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+463 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+464 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+465 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+466 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+467 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+468 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+469 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+470 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+471 [0] : 
+472 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+473 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+474 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+475 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+476 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+477 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+478 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+479 [0] : 
+480 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+481 [0] : 
+482 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+483 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+484 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+485 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+486 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+487 [0] : 
+488 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+489 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+490 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+491 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+492 [0] : 
+493 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+494 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+495 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+496 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+497 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+498 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+499 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+500 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+501 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+502 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+503 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+504 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+505 [7] : t12 t14 t2 t1 t8 t13 t9 
+506 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+507 [13] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t9 t10 t11 
+508 [5] : t12 t14 t2 t13 t9 
+509 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+510 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+511 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+512 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+513 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+514 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+515 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+516 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+517 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+518 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+519 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+520 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+521 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+522 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+523 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+524 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+525 [11] : t12 t14 t6 t2 t5 t7 t8 t4 t9 t10 t11 
+526 [7] : t12 t14 t2 t1 t8 t13 t9 
+527 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+528 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+529 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+530 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+531 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+532 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+533 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+534 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+535 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+536 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+537 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+538 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+539 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+540 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+541 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+542 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+543 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+544 [4] : t12 t14 t2 t9 
+545 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+546 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+547 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+548 [7] : t12 t14 t2 t1 t8 t13 t9 
+549 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+550 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+551 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+552 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+553 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+554 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+555 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+556 [0] : 
+557 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+558 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+559 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+560 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+561 [0] : 
+562 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+563 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+564 [13] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t13 t9 t10 t11 
+565 [13] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t13 t9 t10 t11 
+566 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+567 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+568 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+569 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+570 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+571 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+572 [0] : 
+573 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+574 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+575 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+576 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+577 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+578 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+579 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+580 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+581 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+582 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+583 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+584 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+585 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+586 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+587 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+588 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+589 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+590 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+591 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+592 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+593 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+594 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+595 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+596 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+597 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+598 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+599 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+600 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+601 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+602 [0] : 
+603 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+604 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+605 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+606 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+607 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+608 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+609 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+610 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+611 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+612 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+613 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+614 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+615 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+616 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+617 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+618 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+619 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+620 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+621 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+622 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+623 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+624 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+625 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+626 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+627 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+628 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+629 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+630 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+631 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+632 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+633 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+634 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+635 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+636 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+637 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+638 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+639 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+640 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+641 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+642 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+643 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+644 [0] : 
+645 [0] : 
+646 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+647 [2] : t8 t13 
+648 [0] : 
+649 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+650 [0] : 
+651 [0] : 
+652 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+653 [0] : 
+654 [0] : 
+655 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+656 [0] : 
+657 [0] : 
+658 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+659 [0] : 
+660 [0] : 
+661 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+662 [0] : 
+663 [0] : 
+664 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+665 [0] : 
+666 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+667 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+668 [0] : 
+669 [0] : 
+670 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+671 [0] : 
+672 [0] : 
+673 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+674 [0] : 
+675 [3] : t1 t8 t13 
+676 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+677 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+678 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+679 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+680 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+681 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+682 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+683 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+684 [12] : t12 t14 t6 t2 t1 t5 t7 t4 t3 t9 t10 t11 
+685 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+686 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+687 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+688 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+689 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+690 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+691 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+692 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+693 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+694 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+695 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+696 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+697 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+698 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+699 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+700 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+701 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+702 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+703 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+704 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+705 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+706 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+707 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+708 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+709 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+710 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+711 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+712 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+713 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+714 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+715 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+716 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+717 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+718 [0] : 
+719 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+720 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+721 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+722 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+723 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+724 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+725 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+726 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+727 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+728 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+729 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+730 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+731 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+732 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+733 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+734 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+735 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+736 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+737 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+738 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+739 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+740 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+741 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+742 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+743 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+744 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+745 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+746 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+747 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+748 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+749 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+750 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+751 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+752 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+753 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+754 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+755 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+756 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+757 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+758 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+759 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+760 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+761 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+762 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+763 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+764 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+765 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+766 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+767 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+768 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+769 [13] : t12 t14 t6 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+770 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+771 [4] : t6 t2 t1 t5 
+772 [4] : t12 t14 t2 t9 
+773 [4] : t12 t14 t2 t9 
+774 [4] : t6 t2 t1 t5 
+775 [0] : 
+776 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+777 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+778 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+779 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+780 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+781 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+782 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+783 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+784 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+785 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+786 [10] : t12 t14 t6 t5 t7 t4 t3 t9 t10 t11 
+787 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+788 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+789 [11] : t12 t14 t6 t2 t5 t7 t4 t3 t9 t10 t11 
+790 [9] : t12 t14 t6 t5 t7 t4 t9 t10 t11 
+791 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+792 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 
+793 [14] : t12 t14 t6 t2 t1 t5 t7 t8 t4 t3 t13 t9 t10 t11 

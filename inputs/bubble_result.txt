@@ -1,0 +1,746 @@
+1 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+2 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+3 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+4 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+5 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+6 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+7 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+8 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+9 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+10 [7] : t6 t2 t5 t7 t8 t4 t3 
+11 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+12 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+13 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+14 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+15 [7] : t6 t2 t5 t7 t8 t4 t3 
+16 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+17 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+18 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+19 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+20 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+21 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+22 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+23 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+24 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+25 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+26 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+27 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+28 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+29 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+30 [6] : t6 t5 t7 t8 t4 t3 
+31 [6] : t6 t5 t7 t8 t4 t3 
+32 [3] : t6 t5 t3 
+33 [6] : t6 t5 t7 t8 t4 t3 
+34 [0] : 
+35 [6] : t6 t5 t7 t8 t4 t3 
+36 [6] : t6 t5 t7 t8 t4 t3 
+37 [6] : t6 t5 t7 t8 t4 t3 
+38 [6] : t6 t5 t7 t8 t4 t3 
+39 [6] : t6 t5 t7 t8 t4 t3 
+40 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+41 [6] : t6 t5 t7 t8 t4 t3 
+42 [6] : t6 t5 t7 t8 t4 t3 
+43 [7] : t6 t2 t5 t7 t8 t4 t3 
+44 [6] : t6 t5 t7 t8 t4 t3 
+45 [6] : t6 t5 t7 t8 t4 t3 
+46 [6] : t6 t5 t7 t8 t4 t3 
+47 [6] : t6 t5 t7 t8 t4 t3 
+48 [6] : t6 t5 t7 t8 t4 t3 
+49 [6] : t6 t5 t7 t8 t4 t3 
+50 [6] : t6 t5 t7 t8 t4 t3 
+51 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+52 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+53 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+54 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+55 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+56 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+57 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+58 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+59 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+60 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+61 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+62 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+63 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+64 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+65 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+66 [6] : t6 t5 t7 t8 t4 t3 
+67 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+68 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+69 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+70 [6] : t6 t5 t7 t8 t4 t3 
+71 [6] : t6 t5 t7 t8 t4 t3 
+72 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+73 [0] : 
+74 [6] : t6 t5 t7 t8 t4 t3 
+75 [6] : t6 t5 t7 t8 t4 t3 
+76 [3] : t6 t5 t3 
+77 [3] : t6 t7 t4 
+78 [6] : t6 t5 t7 t8 t4 t3 
+79 [6] : t6 t2 t5 t8 t4 t3 
+80 [6] : t6 t5 t7 t8 t4 t3 
+81 [6] : t6 t5 t7 t8 t4 t3 
+82 [7] : t6 t2 t5 t7 t8 t4 t3 
+83 [7] : t6 t2 t5 t7 t8 t4 t3 
+84 [4] : t6 t5 t8 t3 
+85 [7] : t6 t2 t5 t7 t8 t4 t3 
+86 [5] : t6 t5 t7 t8 t4 
+87 [7] : t6 t2 t5 t7 t8 t4 t3 
+88 [7] : t6 t2 t5 t7 t8 t4 t3 
+89 [5] : t6 t2 t5 t8 t4 
+90 [6] : t6 t5 t7 t8 t4 t3 
+91 [6] : t6 t5 t7 t8 t4 t3 
+92 [6] : t6 t2 t5 t7 t8 t4 
+93 [6] : t6 t5 t7 t8 t4 t3 
+94 [6] : t6 t5 t7 t8 t4 t3 
+95 [5] : t6 t5 t8 t4 t3 
+96 [6] : t6 t5 t7 t8 t4 t3 
+97 [6] : t6 t5 t7 t8 t4 t3 
+98 [6] : t6 t5 t7 t8 t4 t3 
+99 [6] : t6 t5 t7 t8 t4 t3 
+100 [5] : t6 t5 t8 t4 t3 
+101 [6] : t6 t5 t7 t8 t4 t3 
+102 [6] : t6 t5 t7 t8 t4 t3 
+103 [6] : t6 t5 t7 t8 t4 t3 
+104 [6] : t6 t5 t7 t8 t4 t3 
+105 [6] : t6 t5 t7 t8 t4 t3 
+106 [6] : t6 t5 t7 t8 t4 t3 
+107 [6] : t6 t5 t7 t8 t4 t3 
+108 [6] : t6 t5 t7 t8 t4 t3 
+109 [5] : t6 t5 t8 t4 t3 
+110 [6] : t6 t5 t7 t8 t4 t3 
+111 [6] : t6 t5 t7 t8 t4 t3 
+112 [6] : t6 t5 t7 t8 t4 t3 
+113 [6] : t6 t5 t7 t8 t4 t3 
+114 [6] : t6 t5 t7 t8 t4 t3 
+115 [6] : t6 t5 t7 t8 t4 t3 
+116 [6] : t6 t5 t7 t8 t4 t3 
+117 [6] : t6 t5 t7 t8 t4 t3 
+118 [6] : t6 t5 t7 t8 t4 t3 
+119 [6] : t6 t5 t7 t8 t4 t3 
+120 [5] : t6 t5 t8 t4 t3 
+121 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+122 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+123 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+124 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+125 [7] : t6 t2 t5 t7 t8 t4 t3 
+126 [7] : t6 t1 t5 t7 t8 t4 t3 
+127 [7] : t6 t2 t5 t7 t8 t4 t3 
+128 [7] : t6 t2 t5 t7 t8 t4 t3 
+129 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+130 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+131 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+132 [7] : t6 t2 t5 t7 t8 t4 t3 
+133 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+134 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+135 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+136 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+137 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+138 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+139 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+140 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+141 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+142 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+143 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+144 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+145 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+146 [6] : t6 t5 t7 t8 t4 t3 
+147 [6] : t6 t5 t7 t8 t4 t3 
+148 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+149 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+150 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+151 [6] : t6 t5 t7 t8 t4 t3 
+152 [6] : t6 t5 t7 t8 t4 t3 
+153 [0] : 
+154 [3] : t6 t5 t3 
+155 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+156 [6] : t6 t5 t7 t8 t4 t3 
+157 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+158 [3] : t6 t7 t4 
+159 [6] : t6 t5 t7 t8 t4 t3 
+160 [6] : t6 t5 t7 t8 t4 t3 
+161 [6] : t6 t5 t7 t8 t4 t3 
+162 [3] : t6 t7 t4 
+163 [6] : t6 t5 t7 t8 t4 t3 
+164 [4] : t6 t5 t8 t3 
+165 [6] : t6 t5 t7 t8 t4 t3 
+166 [5] : t6 t2 t7 t8 t4 
+167 [6] : t6 t2 t5 t7 t8 t4 
+168 [7] : t6 t2 t5 t7 t8 t4 t3 
+169 [7] : t6 t2 t5 t7 t8 t4 t3 
+170 [7] : t6 t2 t5 t7 t8 t4 t3 
+171 [7] : t6 t2 t5 t7 t8 t4 t3 
+172 [7] : t6 t2 t5 t7 t8 t4 t3 
+173 [5] : t6 t2 t5 t8 t4 
+174 [6] : t6 t2 t5 t7 t8 t4 
+175 [6] : t6 t2 t5 t7 t8 t4 
+176 [6] : t6 t5 t7 t8 t4 t3 
+177 [6] : t6 t5 t7 t8 t4 t3 
+178 [6] : t6 t5 t7 t8 t4 t3 
+179 [6] : t6 t5 t7 t8 t4 t3 
+180 [6] : t6 t5 t7 t8 t4 t3 
+181 [6] : t6 t5 t7 t8 t4 t3 
+182 [6] : t6 t5 t7 t8 t4 t3 
+183 [6] : t6 t5 t7 t8 t4 t3 
+184 [5] : t6 t5 t8 t4 t3 
+185 [6] : t6 t5 t7 t8 t4 t3 
+186 [6] : t6 t5 t7 t8 t4 t3 
+187 [6] : t6 t5 t7 t8 t4 t3 
+188 [6] : t6 t5 t7 t8 t4 t3 
+189 [6] : t6 t5 t7 t8 t4 t3 
+190 [6] : t6 t5 t7 t8 t4 t3 
+191 [6] : t6 t5 t7 t8 t4 t3 
+192 [6] : t6 t5 t7 t8 t4 t3 
+193 [6] : t6 t5 t7 t8 t4 t3 
+194 [6] : t6 t5 t7 t8 t4 t3 
+195 [6] : t6 t5 t7 t8 t4 t3 
+196 [6] : t6 t5 t7 t8 t4 t3 
+197 [6] : t6 t5 t7 t8 t4 t3 
+198 [5] : t6 t5 t8 t4 t3 
+199 [6] : t6 t5 t7 t8 t4 t3 
+200 [6] : t6 t5 t7 t8 t4 t3 
+201 [6] : t6 t5 t7 t8 t4 t3 
+202 [6] : t6 t5 t7 t8 t4 t3 
+203 [6] : t6 t5 t7 t8 t4 t3 
+204 [6] : t6 t5 t7 t8 t4 t3 
+205 [6] : t6 t5 t7 t8 t4 t3 
+206 [6] : t6 t5 t7 t8 t4 t3 
+207 [6] : t6 t5 t7 t8 t4 t3 
+208 [6] : t6 t5 t7 t8 t4 t3 
+209 [5] : t6 t5 t8 t4 t3 
+210 [6] : t6 t5 t7 t8 t4 t3 
+211 [6] : t6 t5 t7 t8 t4 t3 
+212 [6] : t6 t5 t7 t8 t4 t3 
+213 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+214 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+215 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+216 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+217 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+218 [7] : t6 t2 t5 t7 t8 t4 t3 
+219 [7] : t6 t2 t5 t7 t8 t4 t3 
+220 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+221 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+222 [7] : t6 t2 t5 t7 t8 t4 t3 
+223 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+224 [7] : t6 t2 t5 t7 t8 t4 t3 
+225 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+226 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+227 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+228 [5] : t2 t5 t8 t4 t3 
+229 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+230 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+231 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+232 [4] : t6 t2 t8 t4 
+233 [6] : t6 t5 t7 t8 t4 t3 
+234 [6] : t6 t5 t7 t8 t4 t3 
+235 [7] : t6 t2 t5 t7 t8 t4 t3 
+236 [6] : t6 t5 t7 t8 t4 t3 
+237 [6] : t6 t5 t7 t8 t4 t3 
+238 [6] : t6 t5 t7 t8 t4 t3 
+239 [6] : t6 t5 t7 t8 t4 t3 
+240 [6] : t6 t5 t7 t8 t4 t3 
+241 [6] : t6 t5 t7 t8 t4 t3 
+242 [6] : t6 t5 t7 t8 t4 t3 
+243 [6] : t6 t5 t7 t8 t4 t3 
+244 [5] : t2 t5 t8 t4 t3 
+245 [6] : t6 t5 t7 t8 t4 t3 
+246 [5] : t2 t5 t8 t4 t3 
+247 [6] : t6 t5 t7 t8 t4 t3 
+248 [7] : t6 t2 t5 t7 t8 t4 t3 
+249 [4] : t6 t2 t8 t4 
+250 [6] : t6 t5 t7 t8 t4 t3 
+251 [6] : t6 t5 t7 t8 t4 t3 
+252 [5] : t6 t5 t8 t4 t3 
+253 [6] : t6 t5 t7 t8 t4 t3 
+254 [6] : t6 t5 t7 t8 t4 t3 
+255 [6] : t6 t5 t7 t8 t4 t3 
+256 [6] : t6 t5 t7 t8 t4 t3 
+257 [6] : t6 t5 t7 t8 t4 t3 
+258 [7] : t6 t2 t5 t7 t8 t4 t3 
+259 [7] : t6 t2 t5 t7 t8 t4 t3 
+260 [6] : t6 t5 t7 t8 t4 t3 
+261 [6] : t6 t5 t7 t8 t4 t3 
+262 [6] : t6 t5 t7 t8 t4 t3 
+263 [6] : t6 t5 t7 t8 t4 t3 
+264 [6] : t6 t5 t7 t8 t4 t3 
+265 [6] : t6 t5 t7 t8 t4 t3 
+266 [6] : t6 t5 t7 t8 t4 t3 
+267 [6] : t6 t5 t7 t8 t4 t3 
+268 [6] : t6 t5 t7 t8 t4 t3 
+269 [6] : t6 t5 t7 t8 t4 t3 
+270 [4] : t6 t2 t8 t4 
+271 [7] : t6 t2 t5 t7 t8 t4 t3 
+272 [7] : t6 t2 t5 t7 t8 t4 t3 
+273 [7] : t6 t2 t5 t7 t8 t4 t3 
+274 [7] : t6 t2 t5 t7 t8 t4 t3 
+275 [5] : t6 t2 t7 t8 t4 
+276 [5] : t6 t5 t8 t4 t3 
+277 [6] : t6 t5 t7 t8 t4 t3 
+278 [6] : t6 t5 t7 t8 t4 t3 
+279 [6] : t6 t5 t7 t8 t4 t3 
+280 [6] : t6 t5 t7 t8 t4 t3 
+281 [6] : t6 t5 t7 t8 t4 t3 
+282 [6] : t6 t5 t7 t8 t4 t3 
+283 [6] : t6 t5 t7 t8 t4 t3 
+284 [6] : t6 t5 t7 t8 t4 t3 
+285 [6] : t6 t5 t7 t8 t4 t3 
+286 [6] : t6 t5 t7 t8 t4 t3 
+287 [6] : t6 t5 t7 t8 t4 t3 
+288 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+289 [2] : t5 t3 
+290 [6] : t6 t5 t7 t8 t4 t3 
+291 [7] : t6 t2 t5 t7 t8 t4 t3 
+292 [6] : t6 t5 t7 t8 t4 t3 
+293 [6] : t6 t5 t7 t8 t4 t3 
+294 [6] : t6 t5 t7 t8 t4 t3 
+295 [6] : t6 t5 t7 t8 t4 t3 
+296 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+297 [6] : t6 t5 t7 t8 t4 t3 
+298 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+299 [7] : t6 t2 t5 t7 t8 t4 t3 
+300 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+301 [0] : 
+302 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+303 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+304 [0] : 
+305 [0] : 
+306 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+307 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+308 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+309 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+310 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+311 [0] : 
+312 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+313 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+314 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+315 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+316 [0] : 
+317 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+318 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+319 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+320 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+321 [6] : t6 t5 t7 t8 t4 t3 
+322 [5] : t6 t5 t8 t4 t3 
+323 [6] : t6 t5 t7 t8 t4 t3 
+324 [6] : t6 t5 t7 t8 t4 t3 
+325 [6] : t6 t5 t7 t8 t4 t3 
+326 [5] : t6 t5 t8 t4 t3 
+327 [6] : t6 t5 t7 t8 t4 t3 
+328 [6] : t6 t5 t7 t8 t4 t3 
+329 [6] : t6 t5 t7 t8 t4 t3 
+330 [6] : t6 t5 t7 t8 t4 t3 
+331 [6] : t6 t5 t7 t8 t4 t3 
+332 [6] : t6 t5 t7 t8 t4 t3 
+333 [6] : t6 t5 t7 t8 t4 t3 
+334 [5] : t6 t5 t8 t4 t3 
+335 [6] : t6 t5 t7 t8 t4 t3 
+336 [0] : 
+337 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+338 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+339 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+340 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+341 [0] : 
+342 [0] : 
+343 [0] : 
+344 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+345 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+346 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+347 [0] : 
+348 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+349 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+350 [0] : 
+351 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+352 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+353 [6] : t6 t5 t7 t8 t4 t3 
+354 [6] : t6 t5 t7 t8 t4 t3 
+355 [6] : t6 t5 t7 t8 t4 t3 
+356 [5] : t6 t5 t8 t4 t3 
+357 [6] : t6 t5 t7 t8 t4 t3 
+358 [6] : t6 t5 t7 t8 t4 t3 
+359 [6] : t6 t5 t7 t8 t4 t3 
+360 [5] : t6 t5 t8 t4 t3 
+361 [5] : t6 t5 t8 t4 t3 
+362 [0] : 
+363 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+364 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+365 [0] : 
+366 [0] : 
+367 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+368 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+369 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+370 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+371 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+372 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+373 [6] : t6 t5 t7 t8 t4 t3 
+374 [6] : t6 t5 t7 t8 t4 t3 
+375 [6] : t6 t5 t7 t8 t4 t3 
+376 [6] : t6 t5 t7 t8 t4 t3 
+377 [6] : t6 t5 t7 t8 t4 t3 
+378 [6] : t6 t5 t7 t8 t4 t3 
+379 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+380 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+381 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+382 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+383 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+384 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+385 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+386 [0] : 
+387 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+388 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+389 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+390 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+391 [0] : 
+392 [6] : t6 t5 t7 t8 t4 t3 
+393 [6] : t6 t5 t7 t8 t4 t3 
+394 [6] : t6 t5 t7 t8 t4 t3 
+395 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+396 [0] : 
+397 [6] : t6 t5 t7 t8 t4 t3 
+398 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+399 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+400 [5] : t6 t2 t7 t8 t4 
+401 [5] : t6 t2 t7 t8 t4 
+402 [6] : t6 t2 t7 t8 t4 t3 
+403 [6] : t6 t5 t7 t8 t4 t3 
+404 [7] : t6 t2 t5 t7 t8 t4 t3 
+405 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+406 [0] : 
+407 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+408 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+409 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+410 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+411 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+412 [0] : 
+413 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+414 [6] : t6 t5 t7 t8 t4 t3 
+415 [0] : 
+416 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+417 [6] : t6 t5 t7 t8 t4 t3 
+418 [0] : 
+419 [5] : t6 t2 t7 t8 t4 
+420 [7] : t6 t2 t5 t7 t8 t4 t3 
+421 [5] : t6 t2 t7 t8 t4 
+422 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+423 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+424 [0] : 
+425 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+426 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+427 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+428 [6] : t6 t5 t7 t8 t4 t3 
+429 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+430 [6] : t6 t5 t7 t8 t4 t3 
+431 [5] : t6 t2 t7 t8 t4 
+432 [6] : t6 t2 t7 t8 t4 t3 
+433 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+434 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+435 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+436 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+437 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+438 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+439 [0] : 
+440 [6] : t6 t5 t7 t8 t4 t3 
+441 [0] : 
+442 [6] : t6 t5 t7 t8 t4 t3 
+443 [6] : t6 t5 t7 t8 t4 t3 
+444 [0] : 
+445 [6] : t6 t5 t7 t8 t4 t3 
+446 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+447 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+448 [6] : t6 t5 t7 t8 t4 t3 
+449 [0] : 
+450 [7] : t6 t2 t5 t7 t8 t4 t3 
+451 [7] : t6 t2 t5 t7 t8 t4 t3 
+452 [0] : 
+453 [6] : t6 t5 t7 t8 t4 t3 
+454 [5] : t6 t2 t7 t8 t4 
+455 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+456 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+457 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+458 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+459 [0] : 
+460 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+461 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+462 [6] : t6 t5 t7 t8 t4 t3 
+463 [6] : t6 t5 t7 t8 t4 t3 
+464 [6] : t6 t5 t7 t8 t4 t3 
+465 [6] : t6 t5 t7 t8 t4 t3 
+466 [4] : t6 t2 t8 t4 
+467 [5] : t6 t5 t8 t4 t3 
+468 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+469 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+470 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+471 [6] : t6 t5 t7 t8 t4 t3 
+472 [3] : t5 t8 t3 
+473 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+474 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+475 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+476 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+477 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+478 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+479 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+480 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+481 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+482 [6] : t6 t5 t7 t8 t4 t3 
+483 [6] : t6 t5 t7 t8 t4 t3 
+484 [6] : t6 t5 t7 t8 t4 t3 
+485 [6] : t6 t5 t7 t8 t4 t3 
+486 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+487 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+488 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+489 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+490 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+491 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+492 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+493 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+494 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+495 [6] : t6 t5 t7 t8 t4 t3 
+496 [6] : t6 t5 t7 t8 t4 t3 
+497 [6] : t6 t5 t7 t8 t4 t3 
+498 [6] : t6 t5 t7 t8 t4 t3 
+499 [6] : t6 t5 t7 t8 t4 t3 
+500 [6] : t6 t5 t7 t8 t4 t3 
+501 [6] : t6 t5 t7 t8 t4 t3 
+502 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+503 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+504 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+505 [6] : t6 t5 t7 t8 t4 t3 
+506 [6] : t6 t2 t1 t7 t8 t4 
+507 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+508 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+509 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+510 [6] : t6 t5 t7 t8 t4 t3 
+511 [6] : t6 t5 t7 t8 t4 t3 
+512 [6] : t6 t5 t7 t8 t4 t3 
+513 [6] : t6 t5 t7 t8 t4 t3 
+514 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+515 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+516 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+517 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+518 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+519 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+520 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+521 [0] : 
+522 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+523 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+524 [0] : 
+525 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+526 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+527 [0] : 
+528 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+529 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+530 [0] : 
+531 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+532 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+533 [0] : 
+534 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+535 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+536 [0] : 
+537 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+538 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+539 [4] : t6 t5 t8 t4 
+540 [4] : t6 t2 t7 t4 
+541 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+542 [0] : 
+543 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+544 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+545 [4] : t6 t5 t8 t4 
+546 [4] : t6 t7 t4 t3 
+547 [6] : t6 t5 t7 t8 t4 t3 
+548 [0] : 
+549 [6] : t6 t5 t7 t8 t4 t3 
+550 [6] : t6 t5 t7 t8 t4 t3 
+551 [2] : t5 t8 
+552 [1] : t6 
+553 [6] : t6 t5 t7 t8 t4 t3 
+554 [0] : 
+555 [6] : t6 t5 t7 t8 t4 t3 
+556 [6] : t6 t5 t7 t8 t4 t3 
+557 [0] : 
+558 [6] : t6 t5 t7 t8 t4 t3 
+559 [3] : t5 t8 t3 
+560 [4] : t6 t5 t8 t4 
+561 [4] : t6 t7 t4 t3 
+562 [6] : t6 t5 t7 t8 t4 t3 
+563 [0] : 
+564 [6] : t6 t5 t7 t8 t4 t3 
+565 [6] : t6 t5 t7 t8 t4 t3 
+566 [2] : t5 t8 
+567 [1] : t6 
+568 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+569 [0] : 
+570 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+571 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+572 [0] : 
+573 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+574 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+575 [4] : t6 t5 t8 t4 
+576 [5] : t6 t2 t7 t4 t3 
+577 [0] : 
+578 [0] : 
+579 [0] : 
+580 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+581 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+582 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+583 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+584 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+585 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+586 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+587 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+588 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+589 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+590 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+591 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+592 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+593 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+594 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+595 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+596 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+597 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+598 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+599 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+600 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+601 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+602 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+603 [6] : t6 t5 t7 t8 t4 t3 
+604 [6] : t6 t5 t7 t8 t4 t3 
+605 [6] : t6 t5 t7 t8 t4 t3 
+606 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+607 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+608 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+609 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+610 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+611 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+612 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+613 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+614 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+615 [6] : t6 t5 t7 t8 t4 t3 
+616 [6] : t6 t5 t7 t8 t4 t3 
+617 [6] : t6 t5 t7 t8 t4 t3 
+618 [6] : t6 t5 t7 t8 t4 t3 
+619 [6] : t6 t5 t7 t8 t4 t3 
+620 [6] : t6 t5 t7 t8 t4 t3 
+621 [6] : t6 t5 t7 t8 t4 t3 
+622 [6] : t6 t5 t7 t8 t4 t3 
+623 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+624 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+625 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+626 [6] : t6 t5 t7 t8 t4 t3 
+627 [6] : t6 t5 t7 t8 t4 t3 
+628 [6] : t6 t5 t7 t8 t4 t3 
+629 [5] : t6 t5 t7 t8 t3 
+630 [6] : t6 t5 t7 t8 t4 t3 
+631 [5] : t6 t5 t7 t8 t3 
+632 [7] : t6 t2 t5 t7 t8 t4 t3 
+633 [3] : t6 t2 t4 
+634 [6] : t6 t2 t5 t7 t8 t4 
+635 [7] : t6 t2 t5 t7 t8 t4 t3 
+636 [5] : t6 t5 t7 t8 t4 
+637 [7] : t6 t2 t5 t7 t8 t4 t3 
+638 [6] : t6 t5 t7 t8 t4 t3 
+639 [7] : t6 t2 t5 t7 t8 t4 t3 
+640 [5] : t6 t5 t7 t8 t4 
+641 [6] : t6 t5 t7 t8 t4 t3 
+642 [6] : t6 t5 t7 t8 t4 t3 
+643 [6] : t6 t5 t7 t8 t4 t3 
+644 [6] : t6 t5 t7 t8 t4 t3 
+645 [6] : t6 t5 t7 t8 t4 t3 
+646 [6] : t6 t5 t7 t8 t4 t3 
+647 [6] : t6 t5 t7 t8 t4 t3 
+648 [6] : t6 t5 t7 t8 t4 t3 
+649 [6] : t6 t5 t7 t8 t4 t3 
+650 [6] : t6 t5 t7 t8 t4 t3 
+651 [6] : t6 t5 t7 t8 t4 t3 
+652 [6] : t6 t5 t7 t8 t4 t3 
+653 [6] : t6 t5 t7 t8 t4 t3 
+654 [6] : t6 t5 t7 t8 t4 t3 
+655 [6] : t6 t5 t7 t8 t4 t3 
+656 [6] : t6 t5 t7 t8 t4 t3 
+657 [6] : t6 t5 t7 t8 t4 t3 
+658 [6] : t6 t5 t7 t8 t4 t3 
+659 [6] : t6 t5 t7 t8 t4 t3 
+660 [6] : t6 t5 t7 t8 t4 t3 
+661 [6] : t6 t5 t7 t8 t4 t3 
+662 [6] : t6 t5 t7 t8 t4 t3 
+663 [6] : t6 t5 t7 t8 t4 t3 
+664 [6] : t6 t5 t7 t8 t4 t3 
+665 [6] : t6 t5 t7 t8 t4 t3 
+666 [6] : t6 t5 t7 t8 t4 t3 
+667 [6] : t6 t5 t7 t8 t4 t3 
+668 [6] : t6 t5 t7 t8 t4 t3 
+669 [6] : t6 t5 t7 t8 t4 t3 
+670 [6] : t6 t5 t7 t8 t4 t3 
+671 [6] : t6 t5 t7 t8 t4 t3 
+672 [6] : t6 t5 t7 t8 t4 t3 
+673 [6] : t6 t5 t7 t8 t4 t3 
+674 [6] : t6 t5 t7 t8 t4 t3 
+675 [6] : t6 t5 t7 t8 t4 t3 
+676 [6] : t6 t5 t7 t8 t4 t3 
+677 [6] : t6 t5 t7 t8 t4 t3 
+678 [6] : t6 t5 t7 t8 t4 t3 
+679 [6] : t6 t5 t7 t8 t4 t3 
+680 [6] : t6 t5 t7 t8 t4 t3 
+681 [6] : t6 t5 t7 t8 t4 t3 
+682 [6] : t6 t5 t7 t8 t4 t3 
+683 [6] : t6 t5 t7 t8 t4 t3 
+684 [6] : t6 t5 t7 t8 t4 t3 
+685 [6] : t6 t5 t7 t8 t4 t3 
+686 [6] : t6 t5 t7 t8 t4 t3 
+687 [6] : t6 t5 t7 t8 t4 t3 
+688 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+689 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+690 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+691 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+692 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+693 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+694 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+695 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+696 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+697 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+698 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+699 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+700 [7] : t6 t2 t5 t7 t8 t4 t3 
+701 [7] : t6 t1 t5 t7 t8 t4 t3 
+702 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+703 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+704 [7] : t6 t1 t5 t7 t8 t4 t3 
+705 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+706 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+707 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+708 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+709 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+710 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+711 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+712 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+713 [0] : 
+714 [0] : 
+715 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+716 [3] : t6 t5 t3 
+717 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+718 [3] : t6 t5 t3 
+719 [6] : t6 t5 t7 t8 t4 t3 
+720 [6] : t6 t5 t7 t8 t4 t3 
+721 [4] : t6 t7 t4 t3 
+722 [0] : 
+723 [6] : t6 t5 t7 t8 t4 t3 
+724 [7] : t6 t2 t5 t7 t8 t4 t3 
+725 [0] : 
+726 [4] : t6 t7 t4 t3 
+727 [6] : t6 t5 t7 t8 t4 t3 
+728 [6] : t6 t5 t7 t8 t4 t3 
+729 [6] : t6 t5 t7 t8 t4 t3 
+730 [6] : t6 t5 t7 t8 t4 t3 
+731 [6] : t6 t5 t7 t8 t4 t3 
+732 [6] : t6 t5 t7 t8 t4 t3 
+733 [6] : t6 t5 t7 t8 t4 t3 
+734 [6] : t6 t5 t7 t8 t4 t3 
+735 [6] : t6 t5 t7 t8 t4 t3 
+736 [6] : t6 t5 t7 t8 t4 t3 
+737 [6] : t6 t5 t7 t8 t4 t3 
+738 [6] : t6 t5 t7 t8 t4 t3 
+739 [6] : t6 t5 t7 t8 t4 t3 
+740 [6] : t6 t5 t7 t8 t4 t3 
+741 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+742 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+743 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+744 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+745 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
+746 [8] : t6 t2 t1 t5 t7 t8 t4 t3 
