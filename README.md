@@ -11,12 +11,19 @@ Date: Mar 10th 2017
 	--[testnum]: the number of tests you have used in mutation testing;
 	
 	--[input_file]: score_function file, including line as following formats:
+	
 		{mut-id} "[" {length} "]" ":" { "t" {test-id} }* "\n"
 	
 	--[output_file]: file where the generated DMSG is maintained.
+
 		==> you must use the APIs provided by our tools to derive information from it,
+
 		==> Code SEE: dmsg.h 
+			
 			(1) DMSGraphReader
+
 			(2) DMSGraph
+
 			(3) DMSGVexIndex
+
 			(4) DMSGHierarchy
