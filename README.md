@@ -1,5 +1,5 @@
 ## HOW TO USE DMSGEN in LINUX ##
-# Date: Mar 10th 2017 #
+Date: Mar 10th 2017 
 
 1. Open terminate to run shell file "setup.sh"
 2. If "dmsg" is generated then it succeeds to compile the code.
